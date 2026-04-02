@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 3f1b1691272fdf14a84f890cf7101883
+  productGUID: 87fe94c1bb575ab4ead86f641bd8f75c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: movePlayer
+  productName: My project (6)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -846,14 +846,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: movePlayer
+  metroPackageName: My project (6)
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: movePlayer
+  metroApplicationDescription: My project (6)
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -922,13 +922,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: af9c6541-f2e2-487d-bc0b-9fd7485dda15
+  cloudProjectId: 4d53be14-4f06-4aae-ad5e-38dbdf94eb80
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: movePlayer
-  organizationId: leegeonmyeong
+  projectName: My project (6)
+  organizationId: unity_2026137002
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
